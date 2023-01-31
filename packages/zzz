@@ -1,4 +1,0 @@
-type = plugin
-repository = https://github.com/easy-zzz/plugin-zzz
-maintainer = Ivan Yastrebov <easy.quest@ya.ru>
-description = my first plugin
